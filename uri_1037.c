@@ -6,7 +6,7 @@ int main()
 
     if (n<0 || n>100)
     {
-        printf("Fora de intervalo\n");
+        printf("Fora de Intervalo\n");
     }else if (n<=25)
     {
         printf("Intervalo [0,25]\n");
